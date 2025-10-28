@@ -36,7 +36,6 @@
  <img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>
  <img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>
  <img height="48px" width="48px" alt="Icone VSCode" src="https://skillicons.dev/icons?i=vscode"/>
- <img height="48px" width="48px" alt="Icone Linux" src="https://skillicons.dev/icons?i=linux"/>
 </div>
 
 ---
