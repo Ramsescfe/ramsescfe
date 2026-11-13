@@ -1,5 +1,5 @@
 # 💡 Sobre mim  
-<p> Estudante de Ciência da Computação na CESAR School (3º período)</p>  
+<p> Estudante de Ciência da Computação na CESAR School (5º período)</p>  
 <p> Desenvolvendo projetos em Python, C, Django, Node.js e React</p>  
 <p> Focado em evoluir como desenvolvedor e construir soluções inteligentes que facilitem a vida das pessoas</p>  
 <p> Sempre aprendendo, criando e em busca de novos desafios</p>
